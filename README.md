@@ -54,7 +54,8 @@ No se requiere experiencia en programación.
 ## Temario y Planificación
 
 ### 1. Introducción a Microsoft Power Platform
-![Power Platform](./images/power-platform.png)
+![Power Platform](https://github.com/user-attachments/assets/a511005c-b2fc-4903-864d-e6c69048dccf)
+
 **Tiempo estimado:** 45 minutos
 
 1. Visión general de Power Platform
@@ -73,7 +74,8 @@ No se requiere experiencia en programación.
 ---
 
 ### 3. Desarrollo de Aplicaciones con Power Apps
-![Power Apps](./images/power-apps.png)
+![Power Apps](https://github.com/user-attachments/assets/589ded3c-d25f-47d2-9751-e32385cf8e5b)
+
 **Tiempo estimado:** 2 horas
 
 1. Crear aplicaciones sin código
