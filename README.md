@@ -1,5 +1,10 @@
 ![Banner](https://github.com/user-attachments/assets/1fa6be52-1a01-476f-9713-eab1dcc4ad58)
 
+<p align="center">
+<a href="https://copilot.microsoft.com" alt="Microsoft Copilot"><img src="https://img.shields.io/badge/Microsoft-Copilot-green"></a>
+<a href="https://powerplatform.microsoft.com" alt="Microsoft Power Platform"><img src="https://img.shields.io/badge/Power%20Platform-Developer-orange"></a>
+</p>
+
 # Soluciones eficaces y creativas con Microsoft Power Platform
 
 Desarrolla aplicaciones empresariales con Power Platform (Power Apps, Power Automate, SharePoint (Dataverse), Copilot Studio y Power Pages).
