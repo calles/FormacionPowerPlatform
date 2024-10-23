@@ -29,9 +29,6 @@ Desarrolla aplicaciones empresariales con **Power Platform** (Power Apps, Power 
 El curso está diseñado para proporcionar habilidades en el desarrollo de aplicaciones empresariales, automatización de flujos de trabajo, y mejora de la experiencia de usuario utilizando **Microsoft Power Platform**.
 
 ---
-
-![Objective Image](./images/objective.png)
-
 ## Dirigido a
 
 Este curso está dirigido a:
@@ -54,7 +51,6 @@ No se requiere experiencia en programación.
 ## Temario y Planificación
 
 ### 1. Introducción a Microsoft Power Platform
-![Power Platform](https://github.com/user-attachments/assets/a511005c-b2fc-4903-864d-e6c69048dccf)
 
 **Tiempo estimado:** 45 minutos
 
@@ -74,7 +70,6 @@ No se requiere experiencia en programación.
 ---
 
 ### 3. Desarrollo de Aplicaciones con Power Apps
-![Power Apps](https://github.com/user-attachments/assets/589ded3c-d25f-47d2-9751-e32385cf8e5b)
 
 **Tiempo estimado:** 2 horas
 
@@ -94,7 +89,6 @@ No se requiere experiencia en programación.
 ---
 
 ### 5. Desarrollos Creativos con Copilot Studio
-![Copilot Studio](./images/copilot-studio.png)
 **Tiempo estimado:** 1 hora
 
 1. Crear asistentes virtuales
@@ -121,5 +115,3 @@ No se requiere experiencia en programación.
 ## Conclusión
 
 Recapitulación de los conocimientos adquiridos, sesión de preguntas y respuestas, y consejos adicionales para seguir profundizando en **Power Platform**.
-
-![Conclusion](./images/conclusion.png)
