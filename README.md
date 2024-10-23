@@ -1,6 +1,6 @@
 # Soluciones Eficaces y Creativas con Microsoft Power Platform
 
-![Banner](./images/banner.png)
+![Banner](https://github.com/user-attachments/assets/1fa6be52-1a01-476f-9713-eab1dcc4ad58)
 
 ## Descripción
 
