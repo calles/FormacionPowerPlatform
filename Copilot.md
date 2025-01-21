@@ -5,8 +5,8 @@ Que los participantes comprendan el funcionamiento y las aplicaciones prácticas
 
 ## Temario General
 - Introducción a Microsoft Copilot
+- 10 Prompts copilot:
 - Uso de Copilot en Microsoft Edge y otras aplicaciones
-- Exploración avanzada con Copilot Lab
 - Aplicaciones específicas:
 - Copilot para Microsoft Word
 - Copilot para Microsoft PowerPoint
@@ -15,89 +15,46 @@ Que los participantes comprendan el funcionamiento y las aplicaciones prácticas
 - Copilot para Microsoft Excel
 
 
-### Detalle de los Temas
-1. Introducción a Microsoft Copilot
-Subtemas:
-¿Qué es Microsoft Copilot?
-Beneficios para usuarios y empresas.
-Cómo integrar y activar Copilot.
-Actividades:
-Demostración práctica: Configuración inicial de Copilot en un entorno de Microsoft 365.
-Ejercicio grupal: Identificar tareas repetitivas en el trabajo diario que podrían automatizarse con Copilot.
+## Precios M365 + copilot:
+https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a03b4d93405635a#tabs-pill-bar-oc498c_tab0
 
-2. Uso de Copilot en Microsoft Edge y otras aplicaciones
-Subtemas:
-Copilot en Microsoft Edge:
-Asistencia en búsquedas.
-Resúmenes automáticos de páginas web.
-Integración con otras aplicaciones:
-Equipos de trabajo (Teams).
-Outlook.
-Actividades:
-Exploración práctica: Utilizar Copilot para generar resúmenes de artículos en Edge.
-Ejercicio interactivo: Crear una lista de tareas basada en correos electrónicos y páginas visitadas.
+## Acceder a Microsoft 365 -> Luego abrimos la aplicación de copilot:
+- página de inicio
+- chats de copilot
 
-3. Exploración avanzada con Copilot Lab
-Subtemas:
-¿Qué es Copilot Lab?
-Personalización de Copilot para tareas específicas.
-Uso avanzado en flujos de trabajo.
-Actividades:
-Práctica guiada: Crear un flujo de trabajo personalizado con Copilot Lab.
-Ejercicio avanzado: Configurar respuestas automáticas y asistencia personalizada en Teams.
+## 10 Prompts copilot:
 
-4. Aplicaciones específicas de Copilot en Microsoft 365
-  
-  4.1. Copilot para Microsoft Word
-  Subtemas:
-  Redacción asistida:
-  Corrección de gramática y estilo.
-  Creación de documentos largos.
-  Generación de contenido:
-  Resúmenes.
-  Textos a partir de datos.
-  Actividades:
-  Práctica: Generar un informe ejecutivo en minutos con Copilot.
-  Taller: Editar y dar formato a un contrato legal utilizando sugerencias de Copilot.
+1. Recopila información de una persona
+Prompts: Novedades de /@persona organizada por correos electrónicos, chats y archivos. (clic en referencias ^)
 
-  4.2. Copilot para Microsoft PowerPoint
-  Subtemas:
-  Creación de presentaciones desde cero.
-  Inserción de elementos visuales asistidos.
-  Generación de gráficos dinámicos.
-  Actividades:
-  Práctica: Crear una presentación completa basada en un informe de Word.
-  Ejercicio creativo: Mejorar una presentación existente con recomendaciones automáticas de Copilot.
+2. Resume un documento
+Prompts: resumen /@documento (destaca notas o comentarios) (sugiera preguntas del archivo)
 
-  4.3. Copilot para Microsoft Outlook
-  Subtemas:
-  Redacción asistida de correos electrónicos.
-  Priorización y organización de bandeja de entrada.
-  Resúmenes de conversaciones largas.
-  Actividades:
-  Práctica: Redactar un correo profesional utilizando sugerencias de Copilot.
-  Taller: Organizar y responder correos automáticamente.
+3. Crear preguntas basadas en un archivo
+Prompts: crear preguntas desde el archivo /@documento (hasta con opciones)
 
-  4.4. Copilot para Microsoft OneNote
-  Subtemas:
-  Organización automática de notas.
-  Creación de resúmenes y esquemas.
-  Integración con otras herramientas de Microsoft 365.
-  Actividades:
-  Práctica: Resumir y organizar apuntes de una reunión extensa.
-  Ejercicio grupal: Colaborar en una lluvia de ideas con asistencia de Copilot.
+4. Resume emails de una temática
+- Clic en Ver consulta
+- Seleccionamos Resumir correos electrónicos
+- Guardar prompts
+Prompts: Haz un resumen detallado de mis correos electrónicos recientes sobre /@titulo del correo (clic en referencias ^)
 
-  4.5. Copilot para Microsoft Excel
-  Subtemas:
-  Análisis de datos asistido:
-  Identificación de patrones y tendencias.
-  Creación de gráficos automáticamente.
-  Automatización de fórmulas y funciones complejas.
-  Actividades:
-  Práctica: Crear un reporte financiero detallado utilizando gráficos y tendencias generados por Copilot.
-  Taller: Automatizar cálculos en un dataset grande.
+5. Generar ideas sobre un documento
+- Clic en Ver consulta
+- seleccionamos Lluvia de ideas
+Prompts: sugiere 10 líneas de etiqueta atractivas basadas en /@documento
 
-#### Metodología del Curso
-Sesiones interactivas: Mezclamos teoría y práctica para maximizar el aprendizaje.
-Casos reales: Se trabajará con ejemplos aplicables a la vida profesional.
-Dinámicas grupales: Resolución de problemas en equipos para fomentar el aprendizaje colaborativo.
+6. Preparar tus reuniones
+Prompts: Ayudarme a prepararme para la /@Reunion 
+
+7. Escribe una propuesta desde cero
+Prompts: Escribe una propuesta para un cliente en base al archivo /@documento
+
+8. Saca tareas especificas de un documento
+Prompts: Dame 5 tareas del archivo /@documento
+
+9. Escribe preguntas frecuentes de un documento
+Prompts: Escribe 10 preguntas frecuentes del archivo /@documento
+
+10. Encuentra documentos concretos
+Prompts: Buscar documentos sobre: "lo que sea"
