@@ -88,7 +88,8 @@ Automatización de fórmulas y funciones complejas.
 Actividades:
 Práctica: Crear un reporte financiero detallado utilizando gráficos y tendencias generados por Copilot.
 Taller: Automatizar cálculos en un dataset grande.
-Metodología del Curso
+
+#### Metodología del Curso
 Sesiones interactivas: Mezclamos teoría y práctica para maximizar el aprendizaje.
 Casos reales: Se trabajará con ejemplos aplicables a la vida profesional.
 Dinámicas grupales: Resolución de problemas en equipos para fomentar el aprendizaje colaborativo.
