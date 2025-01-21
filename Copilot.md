@@ -6,14 +6,14 @@ Que los participantes comprendan el funcionamiento y las aplicaciones prácticas
 ## Temario General
 - Introducción a Microsoft Copilot
 - 10 Prompts copilot:
-- Uso de Copilot en Microsoft Edge y otras aplicaciones
-- Aplicaciones específicas:
+- Copilot Lab
+- Copilot para Teams
 - Copilot para Microsoft Word
 - Copilot para Microsoft PowerPoint
 - Copilot para Microsoft Outlook
 - Copilot para Microsoft OneNote
 - Copilot para Microsoft Excel
-
+- Uso de Copilot en Microsoft Edge y otras aplicaciones
 
 ## Precios M365 + copilot:
 https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a03b4d93405635a#tabs-pill-bar-oc498c_tab0
@@ -58,3 +58,8 @@ Prompts: Escribe 10 preguntas frecuentes del archivo /@documento
 
 10. Encuentra documentos concretos
 Prompts: Buscar documentos sobre: "lo que sea"
+
+## Copilot Lab
+Promps para cada herrmientda de Microsoft
+
+## Copilot en Teams
