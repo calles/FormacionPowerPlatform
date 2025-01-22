@@ -65,10 +65,9 @@ Prompts: Buscar documentos sobre: "lo que sea"
 Prompts para cada herrmientda de Microsoft
 
 ## Copilot en Teams (licencia)
-- clic en descubre o en asèctps destacados de esta conversación
-
 IMG = https://github.com/user-attachments/assets/7e4cccde-c6eb-4f87-8f26-bd115aae069a
 
+- clic en descubre o en asèctps destacados de esta conversación
 
 1. Resume los puntos clave de una publicación en Teams
 Selecciona un texto + clic en "..." y luego en clic en "aspectos destacados de esta conversación"
