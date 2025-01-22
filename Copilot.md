@@ -60,6 +60,67 @@ Prompts: Escribe 10 preguntas frecuentes del archivo /@documento
 Prompts: Buscar documentos sobre: "lo que sea"
 
 ## Copilot Lab
-Promps para cada herrmientda de Microsoft
+Prompts para cada herrmientda de Microsoft
 
-## Copilot en Teams
+## Copilot en Teams (licencia)
+- clic en descubre o en asèctps destacados de esta conversación
+
+1. Resume los puntos clave de una publicación en Teams
+Selecciona un texto + clic en "..." y luego en clic en "aspectos destacados de esta conversación"
+
+2. Redactar una publicación en Teams
+Prompts: Enumera 3 ideas sobre (escribe_texto) en bullet points
+
+4. Convierte un Texto en Tareas específicas en Microsoft Teams
+Selecciona un texto + clic en "..." y luego en clic en "aspectos destacados de esta conversación"
+Prompts: ¿Qué tareas podemos hacer?
+
+5. Resume una Reunión con Microsoft Teams
+
+--------------
+Resume una Reunión con Microsoft Teams
+Copilot en Microsoft Word
+Genera un borrador con Copilot en Microsoft Word
+Mejora tus textos con Copilot en Microsoft Word
+Resumir textos con Copilot en Microsoft Word
+Crear un Plan de Acción con Copilot en Microsoft Word
+Copilot en Outlook
+Gestiona correos de personas complicadas en Outlook
+Obtén ideas para escribir tus correos en Outlook
+Lidia con las quejas en Outlook
+Analiza tus correos en Outlook
+Sintetiza y resume textos en Outlook
+Genera tareas en Outlook 
+Copilot en OneNote
+Resumir un texto en OneNote
+Redactar tareas pendientes en OneNote
+Analizar Pros y Contras en OneNote
+Nuevas Ideas en OneNote
+Plan de Acción en OneNote
+Tablas en OneNote
+Más opciones en Copilot en OneNote
+Copilot en Microsoft Excel
+El Prompt más sencillo usando Copilot en Microsoft Excel
+Añadir una columna nueva con Copilot en Microsoft Excel
+Formato condicional con Copilot en Microsoft Excel
+Gráficos con Copilot en Microsoft Excel
+Copilot en Microsoft Loop
+Genera ideas creativas con Copilot en Microsoft Loop
+Genera un plan de acción con Copilot en Microsoft Loop
+Resumir textos con Copilot en Microsoft Loop
+Copilot en Microsoft PowerPoint
+Crea una presentación en segundos con Copilot en Microsoft PowerPoint
+Editar una presentación con Designer en Microsoft PowerPoint
+Crea una presentación en base a un documento con Copilot en Microsoft PowerPoint
+Resume presentaciones largas con Copilot en Microsoft PowerPoint
+Copilot en Microsoft Forms
+Encuesta de satisfacción con Copilot en Microsoft Forms
+Encuesta para públicos específicos con Copilot en Microsoft Forms
+Encuesta por temática con Copilot en Microsoft Forms
+Copilot en Microsoft Whiteboard
+Crea contenidos con Copilot en Microsoft Whiteboard
+Resume contenidos con Copilot en Microsoft Whiteboard
+Clasifica el contenido con Copilot en Microsoft Whiteboard
+Descarga el ebook gratuito sobre Gestión del Tiempo
+Reflexión final curso completo Copilot en Microsoft 365
+
