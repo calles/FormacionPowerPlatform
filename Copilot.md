@@ -19,10 +19,10 @@ Que los participantes comprendan el funcionamiento y las aplicaciones prácticas
 https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a03b4d93405635a#tabs-pill-bar-oc498c_tab0
 
 ## Acceder a Microsoft 365 -> Luego abrimos la aplicación de copilot:
+IMG = https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e
+
 - página de inicio
 - chats de copilot
-
-IMG = https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e
 
 ## 10 Prompts copilot:
 
