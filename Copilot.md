@@ -76,10 +76,13 @@ Selecciona un texto + clic en "..." y luego en clic en "aspectos destacados de e
 Prompts: ¿Qué tareas podemos hacer?
 
 5. Resume una Reunión con Microsoft Teams
+Crear reunión + mas acciones -> iniciar transcripción.
+Clic en la pestaña "Resumen"
+
+## Copilot en Word
+
 
 --------------
-Resume una Reunión con Microsoft Teams
-Copilot en Microsoft Word
 Genera un borrador con Copilot en Microsoft Word
 Mejora tus textos con Copilot en Microsoft Word
 Resumir textos con Copilot en Microsoft Word
