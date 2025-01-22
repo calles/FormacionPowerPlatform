@@ -7,12 +7,12 @@ Que los participantes comprendan el funcionamiento y las aplicaciones prácticas
 - Introducción a Microsoft Copilot
 - 10 Prompts copilot:
 - Copilot Lab
-- Copilot para Teams
-- Copilot para Microsoft Word
-- Copilot para Microsoft PowerPoint
-- Copilot para Microsoft Outlook
-- Copilot para Microsoft OneNote
-- Copilot para Microsoft Excel
+- Copilot para Teams (licencia)
+- Copilot para Microsoft Word (licencia)
+- Copilot para Microsoft PowerPoint (licencia)
+- Copilot para Microsoft Outlook (licencia)
+- Copilot para Microsoft OneNote (licencia)
+- Copilot para Microsoft Excel (licencia)
 - Uso de Copilot en Microsoft Edge y otras aplicaciones
 
 ## Precios M365 + copilot:
@@ -21,6 +21,8 @@ https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a
 ## Acceder a Microsoft 365 -> Luego abrimos la aplicación de copilot:
 - página de inicio
 - chats de copilot
+
+![image](https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e)
 
 ## 10 Prompts copilot:
 
@@ -79,7 +81,7 @@ Prompts: ¿Qué tareas podemos hacer?
 Crear reunión + mas acciones -> iniciar transcripción.
 Clic en la pestaña "Resumen"
 
-## Copilot en Word
+## Copilot en Word (licencia)
 
 
 --------------
