@@ -22,7 +22,7 @@ https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a
 - página de inicio
 - chats de copilot
 
-(https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e)
+IMG = https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e
 
 ## 10 Prompts copilot:
 
@@ -67,6 +67,9 @@ Prompts para cada herrmientda de Microsoft
 ## Copilot en Teams (licencia)
 - clic en descubre o en asèctps destacados de esta conversación
 
+IMG = https://github.com/user-attachments/assets/7e4cccde-c6eb-4f87-8f26-bd115aae069a
+
+
 1. Resume los puntos clave de una publicación en Teams
 Selecciona un texto + clic en "..." y luego en clic en "aspectos destacados de esta conversación"
 
@@ -82,6 +85,8 @@ Crear reunión + mas acciones -> iniciar transcripción.
 Clic en la pestaña "Resumen"
 
 ## Copilot en Word (licencia)
+
+IMG = https://github.com/user-attachments/assets/eeb7564c-507f-4e8a-a7dd-c206935db791
 
 
 --------------
