@@ -22,7 +22,7 @@ https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a
 - página de inicio
 - chats de copilot
 
-![image](https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e)
+![image](https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e =100x200)
 
 ## 10 Prompts copilot:
 
