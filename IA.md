@@ -22,33 +22,21 @@ _NOTA: No se requiere experiencia previa en programación, pero se valorará el 
 | Tema | Tiempo estimado | Descripción |
 |---|---|---|
 | **Introducción a la IA en los Negocios** | 10 minutos | <ul><li>Conceptos básicos de IA: ¿Qué es y cómo se aplica en los negocios?</li></ul> |
-| **ChatGPT en el Entorno Empresarial** | 20 minutos | <ul><li>Configuración y uso básico de ChatGPT.</li><li>Implementación en atención al cliente y soporte interno.</li><li>Ejemplo práctico: Crear un chatbot sencillo para responder consultas frecuentes.</li></ul> |
+| **ChatGPT en el Entorno Empresarial** | 20 minutos | <ul><li>Configuración y uso básico de ChatGPT.</li><li>Creación de imagenes para marketing.</li><li>Ejemplo práctico: Crear respuestas rápidas y creativas para responder consultas frecuentes.</li></ul> |
 | **Microsoft Copilot: Automatización y Productividad** | 20 minutos | <ul><li>Uso de Microsoft Copilot para tareas empresariales.</li><li>Automatización de correos electrónicos y análisis de datos.</li><li>Ejemplo práctico: Automatizar el envío de informes semanales.</li></ul> |
-| **Integración de ChatGPT y Copilot en Flujos de Trabajo** | 10 minutos | <ul><li>Ejemplos de integración de ChatGPT y Copilot en procesos empresariales.</li><li>Mejorar la eficiencia y optimización de tareas.</li></ul> |
+| **Promps** | 10 minutos | <ul><li>10 buenos Prompts para Copilot </li><li> |
 
-Detalles del Temario
-Introducción a la IA en los Negocios (10 minutos)
-
-Conceptos Básicos: Explicación breve sobre la IA y su relevancia en el entorno empresarial.
-
-ChatGPT en el Entorno Empresarial (20 minutos)
-
-Configuración y Uso Básico: Pasos para configurar y utilizar ChatGPT en una empresa.
-
-Implementación en Atención al Cliente y Soporte Interno: Cómo utilizar ChatGPT para mejorar la atención al cliente y el soporte interno.
-
-Ejemplo Práctico: Creación de un chatbot sencillo para responder consultas frecuentes de clientes.
-
-Microsoft Copilot: Automatización y Productividad (20 minutos)
-
-Tareas Empresariales: Uso de Microsoft Copilot para automatizar tareas empresariales cotidianas.
-
-Automatización de Correos y Análisis de Datos: Cómo Copilot puede ayudar a automatizar el envío de correos electrónicos y análisis de datos.
-
-Ejemplo Práctico: Automatización del envío de informes semanales a través de Microsoft Copilot.
-
-Integración de ChatGPT y Copilot en Flujos de Trabajo (10 minutos)
-
-Ejemplos de Integración: Casos prácticos de cómo integrar ChatGPT y Copilot para mejorar la eficiencia y optimizar tareas empresariales.
-
-Mejorar la Eficiencia y Optimización: Discusión sobre los beneficios de la integración y su impacto en la productividad.
+### Detalles del Temario
+- Introducción a la IA en los Negocios (10 minutos)
+- Conceptos Básicos: Explicación breve sobre la IA y su relevancia en el entorno empresarial.
+- ChatGPT en el Entorno Empresarial (20 minutos)
+- Configuración y Uso Básico: Pasos para configurar y utilizar ChatGPT en una empresa.
+- Creación de imagenes para marketing.
+- Ejemplo Práctico: Crear respuestas rápidas y creativas para responder consultas frecuentes.
+|
+- Microsoft Copilot: Automatización y Productividad (20 minutos)
+- Tareas Empresariales: Uso de Microsoft Copilot para automatizar tareas empresariales cotidianas.
+- Automatización de Correos y Análisis de Datos: Cómo Copilot puede ayudar a automatizar el envío de correos electrónicos y análisis de datos.
+- Ejemplo Práctico: Automatización del envío de informes semanales a través de Microsoft Copilot.
+- 10 buenos Prompts para Copilot (10 minutos)
+- Mejorar la Eficiencia y Optimización: Discusión sobre los beneficios de la integración y su impacto en la productividad.
