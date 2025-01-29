@@ -1,4 +1,4 @@
-[](https://th.bing.com/th/id/R.59c0821ddf90ff1575d68655d0507e6b?rik=uWEDeubwMD52gQ&riu=http%3a%2f%2fwww.uctoday.com%2fwp-content%2fuploads%2f2023%2f10%2fChatGPT-vs-Microsoft-Copilot-The-Major-Differences.jpg&ehk=Vw6R5dqZ1A4QwFwgd1J3JpjJTqkiUuzZDvSs0d4DPEQ%3d&risl=&pid=ImgRaw&r=0)
+![Banner](https://th.bing.com/th/id/R.59c0821ddf90ff1575d68655d0507e6b?rik=uWEDeubwMD52gQ&riu=http%3a%2f%2fwww.uctoday.com%2fwp-content%2fuploads%2f2023%2f10%2fChatGPT-vs-Microsoft-Copilot-The-Major-Differences.jpg&ehk=Vw6R5dqZ1A4QwFwgd1J3JpjJTqkiUuzZDvSs0d4DPEQ%3d&risl=&pid=ImgRaw&r=0)
 <p align="center"> <a href="https://copilot.microsoft.com" alt="Microsoft Copilot"><img src="https://img.shields.io/badge/Microsoft-Copilot-green"></a> <a href="https://openai.com/chatgpt" alt="ChatGPT"><img src="https://img.shields.io/badge/ChatGPT-IA-orange"></a> </p>
 
 Transformación Empresarial con IA: Microsoft Copilot y ChatGPT
