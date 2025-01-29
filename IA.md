@@ -40,3 +40,47 @@ _NOTA: No se requiere experiencia previa en programación, pero se valorará el 
 - Ejemplo Práctico: Automatización del envío de informes semanales a través de Microsoft Copilot.
 - 10 buenos Prompts para Copilot (10 minutos)
 - Mejorar la Eficiencia y Optimización: Discusión sobre los beneficios de la integración y su impacto en la productividad.
+
+### Precios M365 + copilot:
+https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a03b4d93405635a#tabs-pill-bar-oc498c_tab0
+
+### Acceder a Microsoft 365 -> Luego abrimos la aplicación de copilot:
+IMG = https://github.com/user-attachments/assets/e667dbd3-be55-46bb-909e-0716a923582e
+
+- página de inicio
+- chats de copilot
+
+### 10 Prompts para Copilot:
+
+1. Recopila información de una persona 
+Prompts: Novedades de /@persona organizada por correos electrónicos, chats y archivos.
+
+2. Resume un documento 
+Prompts: Resumen /@documento (destaca notas o comentarios)
+
+3. Crear preguntas basadas en un archivo 
+Prompts: Crear preguntas desde el archivo /@documento
+
+4. Resume emails de una temática
+Prompts: Haz un resumen detallado de mis correos electrónicos recientes sobre /@titulo del correo 
+
+5. Generar ideas sobre un documento
+Prompts: Sugiere 10 líneas de etiqueta atractivas basadas en /@documento
+
+6. Preparar tus reuniones 
+Prompts: Ayudarme a prepararme para la /@Reunion
+
+7. Escribe una propuesta desde cero 
+Prompts: Escribe una propuesta para un cliente en base al archivo /@documento
+
+8. Saca tareas especificas de un documento 
+Prompts: Dame 5 tareas del archivo /@documento
+
+9. Escribe preguntas frecuentes de un documento 
+Prompts: Escribe 10 preguntas frecuentes del archivo /@documento
+
+10. Encuentra documentos concretos 
+Prompts: Buscar documentos sobre: "lo que sea"
+
+### Copilot Lab
+Más información sobre prompts para cada herrmientda de Microsoft.
