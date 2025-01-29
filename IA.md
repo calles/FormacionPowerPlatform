@@ -1,29 +1,22 @@
 ![Banner](https://th.bing.com/th/id/R.59c0821ddf90ff1575d68655d0507e6b?rik=uWEDeubwMD52gQ&riu=http%3a%2f%2fwww.uctoday.com%2fwp-content%2fuploads%2f2023%2f10%2fChatGPT-vs-Microsoft-Copilot-The-Major-Differences.jpg&ehk=Vw6R5dqZ1A4QwFwgd1J3JpjJTqkiUuzZDvSs0d4DPEQ%3d&risl=&pid=ImgRaw&r=0)
 <p align="center"> <a href="https://copilot.microsoft.com" alt="Microsoft Copilot"><img src="https://img.shields.io/badge/Microsoft-Copilot-green"></a> <a href="https://openai.com/chatgpt" alt="ChatGPT"><img src="https://img.shields.io/badge/ChatGPT-IA-orange"></a> </p>
 
-Transformación Empresarial con IA: Microsoft Copilot y ChatGPT
+## Transformación Empresarial con IA: Microsoft Copilot y ChatGPT
 Explora cómo la IA puede revolucionar los procesos empresariales utilizando Microsoft Copilot y ChatGPT.
 
-Objetivo del curso
+## Objetivo del curso:
 El curso está diseñado para proporcionar a los alumnos las habilidades necesarias para integrar la IA en procesos empresariales, utilizando Microsoft Copilot y ChatGPT. Ofrecerá soluciones creativas y prácticas para optimizar tareas, mejorar la experiencia del cliente y potenciar la toma de decisiones.
 
-Dirigido a
+## Dirigido a:
 Este curso está dirigido a:
 
-Profesionales de TI que deseen implementar soluciones de IA en sus organizaciones.
+- Analistas de negocios interesados en potenciar sus análisis con IA.
+- Personas con experiencia básica en tecnología y empresas que deseen aprovechar la IA en sus procesos.
 
-Analistas de negocios interesados en potenciar sus análisis con IA.
+_NOTA: No se requiere experiencia previa en programación, pero se valorará el conocimiento básico en herramientas digitales._
 
-Personas con experiencia básica en tecnología y empresas que deseen aprovechar la IA en sus procesos.
-
-No se requiere experiencia previa en programación, pero se valorará el conocimiento básico en herramientas digitales.
-
-Requisitos para los alumnos
-Acceso a una cuenta de Microsoft 365 y OpenAI.
-
-Conocimiento básico de herramientas digitales.
-
-Opcional: experiencia previa en uso de APIs.
+## Requisitos para los alumnos
+**Acceso a una cuenta de Microsoft 365 y OpenAI.**
 
 Temario y planificación
 Tema	Tiempo estimado	Descripción
