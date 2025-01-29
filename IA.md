@@ -7,7 +7,7 @@ Explora cómo la IA puede revolucionar los procesos empresariales utilizando Mic
 ## Objetivo del curso:
 El curso está diseñado para proporcionar a los alumnos las habilidades necesarias para integrar la IA en procesos empresariales, utilizando Microsoft Copilot y ChatGPT. Ofrecerá soluciones creativas y prácticas para optimizar tareas, mejorar la experiencia del cliente y potenciar la toma de decisiones.
 
-## Dirigido a:
+## Dirigido a
 Este curso está dirigido a:
 
 - Analistas de negocios interesados en potenciar sus análisis con IA.
@@ -18,7 +18,7 @@ _NOTA: No se requiere experiencia previa en programación, pero se valorará el 
 ## Requisitos para los alumnos
 **Acceso a una cuenta de Microsoft 365 y OpenAI.**
 
-Temario y planificación
+## Temario y planificación
 Tema	Tiempo estimado	Descripción
 Introducción a la IA	45 minutos	<ul><li>Conceptos básicos de IA y aprendizaje automático.</li><li>Beneficios y aplicaciones empresariales.</li><li>Visión general de Microsoft Copilot y ChatGPT.</li></ul>
 Implementación de Microsoft Copilot	1 hora y 30 minutos	<ul><li>Uso de Microsoft Copilot para tareas empresariales.</li><li>Ejemplos prácticos: Automatización de correos, análisis de datos.</li></ul>
