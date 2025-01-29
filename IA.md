@@ -33,7 +33,7 @@ _NOTA: No se requiere experiencia previa en programación, pero se valorará el 
 - Configuración y Uso Básico: Pasos para configurar y utilizar ChatGPT en una empresa.
 - Creación de imagenes para marketing.
 - Ejemplo Práctico: Crear respuestas rápidas y creativas para responder consultas frecuentes.
-|
+\n|\n
 - Microsoft Copilot: Automatización y Productividad (20 minutos)
 - Tareas Empresariales: Uso de Microsoft Copilot para automatizar tareas empresariales cotidianas.
 - Automatización de Correos y Análisis de Datos: Cómo Copilot puede ayudar a automatizar el envío de correos electrónicos y análisis de datos.
