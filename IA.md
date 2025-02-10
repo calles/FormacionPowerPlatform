@@ -41,6 +41,22 @@ _NOTA: No se requiere experiencia previa en programación, pero se valorará el 
 - 10 buenos Prompts para Copilot (10 minutos)
 - Mejorar la Eficiencia y Optimización: Discusión sobre los beneficios de la integración y su impacto en la productividad.
 
+### ¿QUÉ ES LA IA?
+Es una combinación de algoritmos que permiten a las máquinas realizar tareas que normalmente requieren inteligencia humana. Esto incluye desde identificar imágenes hasta comprender y generar lenguaje humano.
+
+### ¿PARA QUÉ ES?
+La IA se utiliza en una variedad de campos para mejorar la eficiencia y la capacidad de las máquinas.
+
+### ¿PORQUÉ LA IA?
+La IA se ha desarrollado para ayudar a resolver problemas complejos, automatizar tareas repetitivas y analizar grandes cantidades de datos rápidamente.
+
+### ¿COMO SE PUEDE APLCIAR?
+- La IA puede mejorar la experiencia del cliente a tráves de chatbots que ofrecen soporte 24/7 y personalizarción de servicios basados en las preferencias del usuario.
+- Proporciona análisis avanzados que ayudan a las empresas a la toma decisiones, además identifica tendencias del mercado o predice el comportamiento de los clientes.
+
+### CHATGPT
+**https://chatgpt.com/** 
+
 ### Precios M365 + copilot:
 https://www.microsoft.com/es-es/microsoft-365/copilot?msockid=3acfa1fd35ad62d01a03b4d93405635a#tabs-pill-bar-oc498c_tab0
 
